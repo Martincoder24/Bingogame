@@ -1,0 +1,13 @@
+C:\Users\Marti\source\repos\Lottobollar\Lottobollar\obj\Debug\netcoreapp3.1\Lottobollar.csprojAssemblyReference.cache
+C:\Users\Marti\source\repos\Lottobollar\Lottobollar\obj\Debug\netcoreapp3.1\Lottobollar.AssemblyInfoInputs.cache
+C:\Users\Marti\source\repos\Lottobollar\Lottobollar\obj\Debug\netcoreapp3.1\Lottobollar.AssemblyInfo.cs
+C:\Users\Marti\source\repos\Lottobollar\Lottobollar\obj\Debug\netcoreapp3.1\Lottobollar.csproj.CoreCompileInputs.cache
+C:\Users\Marti\source\repos\Lottobollar\Lottobollar\bin\Debug\netcoreapp3.1\Lottobollar.exe
+C:\Users\Marti\source\repos\Lottobollar\Lottobollar\bin\Debug\netcoreapp3.1\Lottobollar.deps.json
+C:\Users\Marti\source\repos\Lottobollar\Lottobollar\bin\Debug\netcoreapp3.1\Lottobollar.runtimeconfig.json
+C:\Users\Marti\source\repos\Lottobollar\Lottobollar\bin\Debug\netcoreapp3.1\Lottobollar.runtimeconfig.dev.json
+C:\Users\Marti\source\repos\Lottobollar\Lottobollar\bin\Debug\netcoreapp3.1\Lottobollar.dll
+C:\Users\Marti\source\repos\Lottobollar\Lottobollar\bin\Debug\netcoreapp3.1\Lottobollar.pdb
+C:\Users\Marti\source\repos\Lottobollar\Lottobollar\obj\Debug\netcoreapp3.1\Lottobollar.dll
+C:\Users\Marti\source\repos\Lottobollar\Lottobollar\obj\Debug\netcoreapp3.1\Lottobollar.pdb
+C:\Users\Marti\source\repos\Lottobollar\Lottobollar\obj\Debug\netcoreapp3.1\Lottobollar.genruntimeconfig.cache
