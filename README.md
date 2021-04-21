@@ -1,1 +1,2 @@
 # Bingogame
+Simple bingogame
